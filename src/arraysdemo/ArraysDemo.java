@@ -16,7 +16,6 @@ public class ArraysDemo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //comment in this file added
         System.out.println("Enter a word");
         Scanner input = new Scanner(System.in);
         String myWord = input.nextLine();
